@@ -11,10 +11,10 @@ var bodyParser = require('body-parser');
 var app = express();
 
 const config = {
-  server: '192.68.100.153\\sqlexpress',
-  database: 'Jhonea',
-  user: 'sqluser',
-  password: 'usersql'
+  server: '',
+  database: '',
+  user: '',
+  password: ''
 
 };
 
