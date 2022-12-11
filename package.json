@@ -17,7 +17,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "babel-plugin-transform-class-properties": "^6.24.1",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "css-loader": "^2.1.0",
     "file-loader": "^3.0.1",
     "jquery": "^3.3.1",
